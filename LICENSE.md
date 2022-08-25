@@ -1,3 +1,3 @@
-License doc
+License V2
 
 budicnomkla
